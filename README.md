@@ -36,9 +36,9 @@
 #### 🔗[View pdf](https://drive.google.com/file/d/1jydkhssNLUUpCeeNODl0GsFbdqkzyTr0/view?usp=drive_link)
 
 ### **Design Thinking (Low  Fidelity Prototype)**
-#### 🔗[View Report](
-#### 🔗[View Video](
-#### 🔗[View Presentation](
+#### 🔗[View Report](https://docs.google.com/document/d/193-r-eQ0MrHKHRCgLtvw-JuPDx4VzomH/edit?usp=drive_link&ouid=108495122762782036156&rtpof=true&sd=true)
+#### 🔗[View Video](https://youtu.be/MboS47wFvRQ?feature=shared)
+#### 🔗[View Presentation](https://drive.google.com/file/d/1xmr8sFMqm3bgsMj_9uL2ixKsuB3RA7Rd/view?usp=sharing)
 
 ### **Reflections**
 #### [Industry Visit 1](
