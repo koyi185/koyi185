@@ -9,6 +9,8 @@
 ### **Education**: Bachelor Degeree In Computer Science (Graphic And Multimedia Software)
 ### **Position:** Student
 ### **Summary:** A passionate first year student on developing technical skills in graphics and multimedia software
+### **Social:** Linkedin-> [CHLOE KHOO](https://www.linkedin.com/in/chloe-khoo-13260b372/)
+
 
 ## **📍Skills**
 #### - Coding (C++)
