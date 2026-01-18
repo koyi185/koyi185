@@ -25,15 +25,15 @@
 ### Technology & Information System (SECP1513)
 ### **Assignments**
 #### **- Video Industry Visit (Assignment 1)**
-#### 🔗[View Video](
+#### 🔗[View Video](https://drive.google.com/file/d/1_GsjuBPheGrScHjxBu0eu4BI3a0abe1Q/view?usp=drive_link)
 #### **- Poster Industry Talk 1 (Assignment 2)**
-#### 🔗[View Poster](
+#### 🔗[View Poster](https://drive.google.com/file/d/1IREn0ao6xCrVLx5elifTVT05A9bGpIek/view?usp=drive_link)
 #### **- PC Assemble (Lab)**
-#### 🔗[View Photos](
+#### 🔗[View Photos](https://drive.google.com/file/d/1l9Zpq_K4sOhVbPoql6V6ZYdLLIQZt7oM/view?usp=drive_link)
 #### **- Report Industry Talk 2 (Assignment 3)**
-#### 🔗[View Report](
+#### 🔗[View Report](https://drive.google.com/file/d/1EkfXbViLeoNWibn0J-1daOZHseZpHgC4/view?usp=drive_link)
 #### **- Newsletter Industry Visit 2 (Assignment 4)**
-#### 🔗[View pdf](
+#### 🔗[View pdf](https://drive.google.com/file/d/1jydkhssNLUUpCeeNODl0GsFbdqkzyTr0/view?usp=drive_link)
 
 ### **Design Thinking (Low  Fidelity Prototype)**
 #### 🔗[View Report](
