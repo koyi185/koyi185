@@ -42,11 +42,11 @@
 
 ### **Reflections**
 #### [Industry Visit 1](reflections/IndustryVisit1.md)
-#### [Industry Talk 1](
-#### [Industry Talk 2](
-#### [Industry Visit 2](
-#### [PC Assemble](
-#### [Design Thinking](
+#### [Industry Talk 1](reflections/IndustryTalk1.md)
+#### [Industry Talk 2](reflections/IndustryTalk2.md)
+#### [Industry Visit 2](reflections/IndustryVisit2.md)
+#### [PC Assemble](reflections/PCAssemble.md)
+#### [Design Thinking](reflections/DesignThinking.md)
 
 
 
