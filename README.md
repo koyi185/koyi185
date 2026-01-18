@@ -41,7 +41,7 @@
 #### 🔗[View Presentation](https://drive.google.com/file/d/1xmr8sFMqm3bgsMj_9uL2ixKsuB3RA7Rd/view?usp=sharing)
 
 ### **Reflections**
-#### [Industry Visit 1](
+#### [Industry Visit 1](reflections/IndustryVisit1.md)
 #### [Industry Talk 1](
 #### [Industry Talk 2](
 #### [Industry Visit 2](
